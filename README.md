@@ -26,5 +26,5 @@ Backend: Java, Gradle, Spring Boot, GNU Make, Docker, H2 (development), PostgreS
 #### Дополнительные
 Для расширения взяли лидерборд. \
 Реализация лидерборда полностью готова на бэкенде, фронтенд подключить не успели. \
-[OPEN API реализации лидерборда](https://memory-game-j84d.onrender.com/swagger-ui/index.html#/Users%20controller/index_2) : выводит список игроков с их лучшим результатом по количеству ходов в игре, отсортированный по возрастанию ходов.
+[OPEN API реализации лидерборда](https://memory-game-j84d.onrender.com/swagger-ui/index.html#/Users%20controller/index_2) : выводит список игроков с их лучшим результатом по количеству ходов в игре, отсортированный по возрастанию ходов. Уровеь сложности базовый.
 
