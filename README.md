@@ -9,7 +9,7 @@
 
 ## Стек проекта
 Frontend: React, JavaScript, ... \
-Backend: Java, Gradle, Spring Boot, GNU Make, Docker, деплой на Render.
+Backend: Java, Gradle, Spring Boot, GNU Make, Docker, H2 (development), PostgreSQL (production),  deploy on Render.
 
 ## Описание проекта
 Игра с карточками, которые открываются попарно. Задача - открыть все карточки за наименьшее количество ходов.
