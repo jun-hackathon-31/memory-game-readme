@@ -54,6 +54,26 @@ http://localhost:5173/
 - [x] возможность начать игру заново;
 - [x] экран поздравления с окончанием игры.
 
+**Вывод поля с рандомно расположенными карточками (каждый раунд - новая позиция карточек)**
+
+![generate-field](https://github.com/jun-hackathon-31/memory-game-readme/assets/93980203/c644dd5d-370f-4e9c-82c7-eedfcd46f928)
+
+**Возможность открывать карточки**
+
+![open-card](https://github.com/jun-hackathon-31/memory-game-readme/assets/93980203/bb2604bc-a1d6-424e-975b-51a080571cd8)
+
+**Закрытие непарных карточек, парные - остаются открытыми** и **Подсчет количества ходов**
+
+![flipping-card](https://github.com/jun-hackathon-31/memory-game-readme/assets/93980203/60bc41e6-ac4c-478f-bde2-0e20587badd7)
+
+**Возможность начать игру заново**
+
+![restart](https://github.com/jun-hackathon-31/memory-game-readme/assets/93980203/a8043b4f-a2d9-4c02-b034-9ebb5dd0723f)
+
+**Экран поздравления с окончанием игры**
+
+![final](https://github.com/jun-hackathon-31/memory-game-readme/assets/93980203/407380a0-0810-4c6b-bd2c-e14c2f9dc6ff)
+
 #### Дополнительные
 Для расширения взяли лидерборд. \
 Реализация лидерборда полностью готова на бэкенде, фронтенд подключить не успели. \
