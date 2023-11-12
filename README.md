@@ -83,4 +83,4 @@ http://localhost:5173/
   [Demo on Render](https://memory-game-j84d.onrender.com/welcome)
 
 * ## Деплой фронтенд части проекта
-  [Demo](https://jun-hackathon-31.github.io/memory-game-frontend/)
+  [Demo](https://memory-game-frontend.vercel.app)
