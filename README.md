@@ -24,8 +24,6 @@ make setup
 make start
 # Open http://localhost:8080/welcome
 ```
-## Деплой бэкенд части проекта
-[Demo on Render](https://memory-game-j84d.onrender.com/welcome)
 
 ## Локальное разветывание фронтенд части проекта
 Склонируйте репозиторий на свой компьютер.
@@ -79,3 +77,10 @@ http://localhost:5173/
 Реализация лидерборда полностью готова на бэкенде, фронтенд подключить не успели. \
 [OPEN API реализации лидерборда](https://memory-game-j84d.onrender.com/swagger-ui/index.html#/Users%20controller/index_2) : выводит список игроков с их лучшим результатом по количеству ходов в игре, отсортированный по возрастанию ходов. Уровень сложности базовый.
 
+# Ссылки на деплой
+
+* ## Деплой бэкенд части проекта
+  [Demo on Render](https://memory-game-j84d.onrender.com/welcome)
+
+* ## Деплой фронтенд части проекта
+  [link]()
