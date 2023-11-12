@@ -14,6 +14,19 @@ Backend: Java, Gradle, Spring Boot, GNU Make, Docker, H2 (development), PostgreS
 ## Описание проекта
 Игра с карточками, которые открываются попарно. Задача - открыть все карточки за наименьшее количество ходов.
 
+## Локальное развертывание бэкенд части проекта
+* ### Setup
+```bash
+make setup
+```
+* ### Run server
+```bash
+make start
+# Open http://localhost:8080/welcome
+```
+## Деплой бэкенд части проекта
+[Demo on Render](https://memory-game-j84d.onrender.com/welcome)
+
 ### Фичи
 #### Базовые
 - [ ] вывод поля с рандомно расположенными карточками (каждый раунд - новая позиция карточек);
